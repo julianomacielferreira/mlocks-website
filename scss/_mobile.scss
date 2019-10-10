@@ -47,15 +47,31 @@
     .lg-heading {
       line-height: 1;
       margin-bottom: 1rem;
-      font-size: 3rem;
+      font-size: 1.5rem;
+    }
+
+    .sm-heading {
+      font-size: 1rem;
+      margin-bottom: 1rem;
     }
   }
 
   .menu-branding {
-    height: 45vh;
+    height: 40vh;
+
+    .portrait {
+      width: 150px;
+      height: 150px;
+      background: url(../img/portrait_thumb.jpg);
+    }
   }
 
   .menu-nav {
-    height: 55vh;
+    height: 60vh;
+
+    .nav-link {
+      font-size: 1.2rem;
+      padding: 0.5rem 0;
+    }
   }
 }
