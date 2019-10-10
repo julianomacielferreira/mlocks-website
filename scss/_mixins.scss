@@ -23,3 +23,28 @@
     }
   }
 }
+
+// Media query mixins
+@mixin media_query_small {
+  @media screen and (max-width: 500px) {
+    @content;
+  }
+}
+
+@mixin media_query_medium {
+  @media screen and (max-width: 768px) {
+    @content;
+  }
+}
+
+@mixin media_query_large {
+  @media screen and (max-width: 769px) and (max-width: 1170px) {
+    @content;
+  }
+}
+
+@mixin media_query_extra_large {
+  @media screen and (min-width: 1171px) {
+    @content;
+  }
+}
