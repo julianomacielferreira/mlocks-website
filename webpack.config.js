@@ -43,7 +43,7 @@ module.exports = [{
                 },
             },
             {
-                test: /\.(ttf|eot|svg|gif|jpg|png)(\?v=[0-9]\.[0-9]\.[0-9])?$/,
+                test: /\.(ttf|eot|svg|gif|jpg|png|jpeg)(\?v=[0-9]\.[0-9]\.[0-9])?$/,
                 use: [{
                     loader: 'file-loader'
                 }]
