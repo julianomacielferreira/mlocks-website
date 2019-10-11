@@ -77,6 +77,9 @@ main {
 // Menu CSS style
 @import "menu";
 
+// Button CSS style
+@import "buttons";
+
 .about-info {
   display: grid;
   grid-gap: 2rem;
@@ -111,6 +114,24 @@ main {
     background: lighten($primary-color, 5);
     padding: 0.5rem;
     border-bottom: $secondary-color 5px solid;
+  }
+}
+
+// Work / Projects
+.projects {
+  display: grid;
+  grid-gap: 1rem;
+  grid-template-columns: repeat(3, 1fr);
+
+  img {
+    width: 100%;
+    border: 3px #ffffff solid;
+
+    &:hover {
+      opacity: 0.5;
+      border-color: $secondary-color;
+      @include easeOut;
+    }
   }
 }
 
