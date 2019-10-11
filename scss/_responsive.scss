@@ -87,7 +87,17 @@
     }
   }
 
+  .bio-image {
+    width: 150px;
+  }
+
   .projects {
     grid-template-columns: 1fr;
+  }
+
+  .boxes {
+    div {
+      font-size: 1rem;
+    }
   }
 }
