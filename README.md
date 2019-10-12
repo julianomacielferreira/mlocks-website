@@ -65,6 +65,10 @@ The files will be created in the folder **/dist**.
 
 - Webpack&trade;: [https://webpack.js.org/](https://webpack.js.org/)
 
+- Traversy Media&trade; youtube channel: [https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
+
+- Traversy Media&trade;: [https://www.traversymedia.com/](https://www.traversymedia.com/)
+
 # License
 
 Please see the [license agreement](https://github.com/julianomacielferreira/mlocks-website/blob/master/LICENSE).
