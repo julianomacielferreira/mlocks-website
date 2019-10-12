@@ -42,6 +42,19 @@ The files will be created in the folder **/dist**.
 
 **2. And then access [http://localhost:8080/](http://localhost:8080/) on your browser (it's setup to open automatically).**
 
+# Screenshots
+
+![](img/screenshots/1.png)
+![](img/screenshots/2.png)
+![](img/screenshots/3.png)
+![](img/screenshots/4.png)
+![](img/screenshots/5.png)
+![](img/screenshots/6.png)
+![](img/screenshots/10.png)
+![](img/screenshots/7.png)
+![](img/screenshots/8.png)
+![](img/screenshots/9.png)
+
 # References
 
 - Font Awesome&trade;: [https://fontawesome.com/](https://fontawesome.com/)
