@@ -156,8 +156,10 @@ main {
       padding: 0.5rem 1.5rem;
       background: $secondary-color;
       color: #333333;
+      font-weight: bold;
 
       span {
+        font-weight: normal;
         color: #000000;
       }
     }
