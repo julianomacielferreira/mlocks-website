@@ -7,6 +7,10 @@
 
 // Desktops & Laptops
 @include media_query_large {
+  .about-info {
+    grid-template-areas: "bioimage bio" "job1 job2" "job3 job4";
+    grid-template-columns: 1fr 1fr;
+  }
 }
 
 // Tablets & Netbooks
@@ -37,7 +41,7 @@
   }
 
   .about-info {
-    grid-template-areas: "bioimage" "bio" "job1" "job2" "job3";
+    grid-template-areas: "bioimage" "bio" "job1" "job2" "job3" "job4";
     grid-template-columns: 1fr;
   }
 
