@@ -1,6 +1,6 @@
-# Juliano Maciel Website
+# Juliano Maciel Website Template
 
-This is my professional personal website [http://mlocks.com.br](http://mlocks.com.br).
+This is the template of my professional personal website [http://mlocks.com.br](http://mlocks.com.br).
 
 It's deployed on Firebase [https://firebase.google.com/](https://firebase.google.com/).
 
