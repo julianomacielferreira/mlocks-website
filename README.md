@@ -2,8 +2,6 @@
 
 This is the template of my professional personal website [http://mlocks.com.br](http://mlocks.com.br).
 
-It's deployed on Firebase [https://firebase.google.com/](https://firebase.google.com/).
-
 The icons are from the Font Awesome&trade; [https://fontawesome.com/](https://fontawesome.com/) library.
 
 The images were downloaded from Pexels™ [https://www.pexels.com/](https://www.pexels.com/) - The best free stock photos & videos shared by talented creators.
@@ -58,8 +56,6 @@ The files will be created in the folder **/dist**.
 ![](img/screenshots/9.png)
 
 # References
-
-- Firebase: [https://firebase.google.com/](https://firebase.google.com/)
 
 - Font Awesome&trade;: [https://fontawesome.com/](https://fontawesome.com/)
 
