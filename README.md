@@ -1,5 +1,7 @@
 # Juliano Maciel Website Template
 
+Based on Tutorial ["Responsive Portfolio Website - Intro & Sass Workflow Setup"](https://www.youtube.com/watch?v=gYzHS-n2gqU&list=PLillGF-RfqbYoGoCjKoMOkVznV6aSXKzU) from Traversy Media&trade;.
+
 This is the template of my professional personal website [http://mlocks.com.br](http://mlocks.com.br).
 
 The icons are from the Font Awesome&trade; [https://fontawesome.com/](https://fontawesome.com/) library.
